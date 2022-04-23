@@ -1,0 +1,21 @@
+DS1302  KEYWORD1
+enable  KEYWORD2
+disable KEYWORD2
+setYear         KEYWORD2
+setMonth        KEYWORD2
+setDate         KEYWORD2
+setDay          KEYWORD2
+setHoursMode    KEYWORD2
+setMinutes      KEYWORD2
+setSeconds      KEYWORD2
+
+getYear     KEYWORD2
+getMonth    KEYWORD2
+getDate     KEYWORD2
+getDay      KEYWORD2
+getHours    KEYWORD2
+getMinutes  KEYWORD2
+getSeconds  KEYWORD2
+
+setHoursMode    KEYWORD2
+getHoursMode    KEYWORD2
