@@ -1,7 +1,7 @@
 # DS1302
 DS1302 RTC Communication Library For Arduino By William Lin\
 The DS1302 Chip Do Include Further RAM Memory\
-But This Library Doesn't include RAM Access Function\
+But This Library Doesn't include RAM Access Function
 
 
 ### Initialize Function
